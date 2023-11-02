@@ -1,0 +1,6 @@
+{
+    "host": "10.2.0.35",
+    "user": "yarn",
+    "pass": "funny password",
+    "database": "yarn"
+}
